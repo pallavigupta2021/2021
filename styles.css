@@ -1,0 +1,141 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e8e8f7;
+    
+}
+
+
+.header{
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 50px;
+    background-color: white;
+    width:100%;
+}
+.hdiv1{
+height:50px;
+width:100%;
+}
+
+.hdiv2{
+height:48px;
+width:48px;
+border-radius: 100%;
+text-align:center;
+Font-size:30Px;
+background-color: #99e6b3;
+}
+.hdiv3{
+
+height:48px;
+width:100px;
+argin-left: -112px;  
+
+}
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+
+
+.mainDiv {
+    margin: 0 auto;
+    border: 2.5px solid rgb(31, 29, 29);
+    height: 950px;
+    background-color: white;
+    width:700px;
+}
+h2{
+    margin-left: 4%;
+}
+.tran{
+    height:130px;
+    width:350px;
+    border: 2px solid;
+    margin-top:45px;
+   margin-left:20px;
+   margin-right:20px;
+       position: relative;   
+
+}
+.tdater{
+position:absolute;
+top:135px;
+left:200px;
+
+}
+
+.rclass1
+{
+
+position:relative;
+
+}
+
+.tdate1{
+position: absolute;
+    top: -25px;
+}
+
+.tdater{
+position:absolute;
+top:135px;
+left:200px;
+
+}
+.timestamp{
+position: relative;   
+}
+
+
+.times{
+position:absolute;
+top:150px;
+}
+
+.tdatel{
+position:absolute;
+top:135px;
+left:200px;
+
+}
+
+
+.tudate{
+    top: -20px;
+    position: absolute;
+}
+.tdatel{
+position:absolute;
+top:135px;
+left:200px;
+
+}
+
+.btn_set{
+margin-left: 8%; 
+margin-top: 5%;}
+
+    .forwordbtn{    float: right;
+        margin-top: -7%;
+        margin-right: 3%; }
+    
+.trnid{margin-left: 8%;}
+.amt {
+    
+    font-size: 2.5em;
+    font-family: system-ui;
+    margin-left: 8%;
+}
+.donepymnt {
+    margin-right: 6%;
+    float: right;
+    margin-top: 7%;
+}
